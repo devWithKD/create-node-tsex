@@ -1,0 +1,10 @@
+{
+  "name": "create-node-tsex",
+  "version": "1.0.3",
+  "description": "CLI to generate a TypeScript + Express + Axios + CORS backend",
+  "bin": {
+    "create-alterian": "./bin/create-node-ts.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
